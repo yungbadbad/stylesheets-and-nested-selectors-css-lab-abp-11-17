@@ -12,7 +12,8 @@ header nav {
 }
 
 nav ul li{
-  display: right 10px
+  display: inline;
+  margin-right: 10px
 }
 
 nav a{
