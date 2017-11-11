@@ -22,19 +22,18 @@ nav a {
 }
 
 header nav ul {
-  padding: 0px;
+  padding: 0 0 0 0;
   margin: 40px, 0, 0, 0;
 }
 
-header h3 {
+h3#header {
   float:left;
   font-size: 30px
 }
 
-header h3 a {
+h3#header a {
   text-decoration: none;
   color: #868e96;
-
 }
 
 body {
