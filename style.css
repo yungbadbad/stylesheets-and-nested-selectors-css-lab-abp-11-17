@@ -11,8 +11,8 @@ header nav {
     float:right;
 }
 
-header nav ul li{
-  li display: right 10px
+nav ul li{
+  display: right 10px
 }
 
 nav a{
