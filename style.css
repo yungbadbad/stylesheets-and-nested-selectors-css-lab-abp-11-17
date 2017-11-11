@@ -4,7 +4,7 @@
 
 header {
   height: 100px;
-  border-bottom-color: 1px solid #cccccc
+  border-bottom: 1px solid #cccccc
 }
 
 header nav {
